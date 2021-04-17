@@ -1,0 +1,34 @@
+{
+    "notifications": [{
+            "notificationCode": 1,
+            "text": "notification 1",
+            "textColor": "#ffffff",
+            "backgroundColor": "#E56C6C"
+        },
+        {
+            "notificationCode": 2,
+            "text": "notification 2",
+            "textColor": "#ffffff",
+            "backgroundColor": "#50CF96"
+        }
+    ],
+    "elementsToApplyValidationOn": {
+        "<data-frform 1>": {
+            "notificationCode": {
+                "validated": 2,
+                "notValidated": 1
+            },
+            "resetFormUponSubmit": false,
+            "inputNameToValidate": {
+                "<data-name1>": {
+                    "<validator1>": <"validator parameter">,
+					"<validator2>": <"validator parameter">
+                },
+				"<data-name2>": {
+                    "<validator1>": <"validator parameter">,
+					"<validator2>": <"validator parameter">
+                }
+            }
+        }
+    }
+}
