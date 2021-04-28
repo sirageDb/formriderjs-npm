@@ -160,3 +160,4 @@ export class Processor {
     request.send(dataToSubmit);
   }
 }
+// module.exports.Processor = new Processor;

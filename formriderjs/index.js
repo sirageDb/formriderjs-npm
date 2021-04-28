@@ -1,12 +1,12 @@
 import { Processor } from "./processor.js";
 
-
 export class FormRiderjs {
     //===================================================================================================
 
     constructor() {
         console.log("FormRider.js loaded successfully, thank you for using it, Happy validating ❤️ ");
-        let jsonConfig = require("./formRiderJsonConfig.json");
+        // let jsonConfig = require("./formRiderJsonConfig.json");
+        let jsonConfig = require("../../src/config/formRiderJsonConfig.json");
         new Processor(jsonConfig);
     }
 
