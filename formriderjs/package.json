@@ -1,22 +1,26 @@
 {
-  "name": "formriderjs",
-  "version": "1.0.0-beta",
-  "description": "FormRider.js, a javascript form validation library based on JSON, validate forms without coding",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [
-    "[]\u001b[D\"\"\u001bfff\u001b[D\u001b[D\u001b[Dggggggg\u001b[D\u001b[D\u001b[D\u001bs",
-    ":",
-    "[\"form",
-    "validation\"",
-    "\"javascript\"",
-    "\"\"\u001b[Dno",
-    "code\"",
-    "\"\"\u001b[DHTML5\"",
-    "\"\"\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[C\u001b[C\u001b[Cnotification\u001b[C\"\u001b[\u001b[\u001b[C\u001b\"]"
-  ],
-  "author": "Sirage AL DBIYAT - iLoveSemicolons",
-  "license": "MIT"
+    "name": "formriderjs",
+    "version": "1.0.0",
+    "description": "FormRider.js, a javascript form validation library based on JSON, validate forms without coding",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "form",
+        "validation",
+        "javascript",
+        "no code",
+        "HTML5"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/sirageDb/formriderjs-npm.git"
+    },
+    "bugs": {
+        "url": "https://github.com/sirageDb/formriderjs-npm/issues"
+    },
+    "homepage": "https://formriderjs.ilovesemicolons.io",
+    "author": "Sirage AL DBIYAT",
+    "license": "MIT"
 }
